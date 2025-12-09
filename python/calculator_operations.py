@@ -1,4 +1,3 @@
-from os import name
 
 
 def add(a: int, b: int):
