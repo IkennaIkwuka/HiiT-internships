@@ -175,3 +175,8 @@ with zipfile.ZipFile(zip_path, "w") as zipf:
             zipf.write(file_path, os.path.relpath(file_path, base_dir))
 
 # zip_path
+
+
+if __name__ == "__main__":
+    ...
+
